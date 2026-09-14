@@ -1,0 +1,154 @@
+# ==========================
+# Core Scientific Computing
+# ==========================
+numpy
+pandas
+scipy
+
+# ==========================
+# Visualization
+# ==========================
+matplotlib
+seaborn
+plotly
+
+# ==========================
+# Machine Learning
+# ==========================
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# ==========================
+# Deep Learning
+# ==========================
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# ==========================
+# Computer Vision
+# ==========================
+opencv-python
+Pillow
+albumentations
+
+# ==========================
+# NLP
+# ==========================
+nltk
+spacy
+transformers
+sentencepiece
+datasets
+accelerate
+
+# ==========================
+# Data Handling
+# ==========================
+openpyxl
+xlrd
+pyarrow
+fastparquet
+h5py
+
+# ==========================
+# Notebook
+# ==========================
+jupyter
+jupyterlab
+ipykernel
+notebook
+
+# ==========================
+# Model Explainability
+# ==========================
+shap
+lime
+
+# ==========================
+# Hyperparameter Tuning
+# ==========================
+optuna
+
+# ==========================
+# Progress Bars
+# ==========================
+tqdm
+
+# ==========================
+# Image Datasets
+# ==========================
+idx2numpy
+
+# ==========================
+# Kaggle
+# ==========================
+kaggle
+kagglehub
+
+# ==========================
+# Utility
+# ==========================
+joblib
+requests
+python-dotenv
+
+# ==========================
+# TensorBoard
+# ==========================
+tensorboard
+
+# ==========================
+# Experiment Tracking
+# ==========================
+wandb
+mlflow
+
+# ==========================
+# RAG / LLM
+# ==========================
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-openai
+langgraph
+faiss-cpu
+chromadb
+tiktoken
+sentence-transformers
+
+# ==========================
+# PDF & Document Loaders
+# ==========================
+pymupdf
+pypdf
+unstructured
+
+# ==========================
+# API
+# ==========================
+fastapi
+uvicorn
+
+# ==========================
+# Database
+# ==========================
+sqlalchemy
+psycopg2-binary
+
+# ==========================
+# Streamlit
+# ==========================
+streamlit
+
+# ==========================
+# Misc
+# ==========================
+rich
